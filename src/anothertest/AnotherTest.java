@@ -16,6 +16,7 @@ public class AnotherTest {
     public static void main(String[] args) {
         // TODO code application logic here
         //Modified for pull
+        private String name;
     }
     
 }
